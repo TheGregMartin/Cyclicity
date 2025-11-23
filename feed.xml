@@ -3,30 +3,10 @@
     <title>Cyclicity</title>
     <link href="https://TheGregMartin.github.io/Cyclicity/feed.xml" rel="self" />
     <link href="https://TheGregMartin.github.io/Cyclicity" />
-    <updated>2025-11-22T20:10:57-08:00</updated>
+    <updated>1969-12-31T16:00:00-08:00</updated>
     <author>
         <name>Greg Martin</name>
     </author>
     <id>https://TheGregMartin.github.io/Cyclicity</id>
 
-    <entry>
-        <title>test post</title>
-        <author>
-            <name>Greg Martin</name>
-        </author>
-        <link href="https://TheGregMartin.github.io/Cyclicity/test-post/index.html"/>
-        <id>https://TheGregMartin.github.io/Cyclicity/test-post/index.html</id>
-
-        <updated>2025-11-22T20:10:57-08:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    test post
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>test post</p>
-            ]]>
-        </content>
-    </entry>
 </feed>

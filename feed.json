@@ -10,19 +10,5 @@
         "name": "Greg Martin"
     },
     "items": [
-        {
-            "id": "https://TheGregMartin.github.io/Cyclicity/test-post/index.html",
-            "url": "https://TheGregMartin.github.io/Cyclicity/test-post/index.html",
-            "title": "test post",
-            "summary": "test post",
-            "content_html": "<p>test post</p>",
-            "author": {
-                "name": "Greg Martin"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-11-22T20:10:57-08:00",
-            "date_modified": "2025-11-22T20:10:57-08:00"
-        }
     ]
 }
