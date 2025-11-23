@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Cyclicity",
+    "description": "",
+    "home_page_url": "https://TheGregMartin.github.io/Cyclicity",
+    "feed_url": "https://TheGregMartin.github.io/Cyclicity/feed.json",
+    "user_comment": "",
+    "icon": "https://TheGregMartin.github.io/Cyclicity/media/website/CYCLICITY.png",
+    "author": {
+        "name": "Greg Martin"
+    },
+    "items": [
+        {
+            "id": "https://TheGregMartin.github.io/Cyclicity/test-post.html",
+            "url": "https://TheGregMartin.github.io/Cyclicity/test-post.html",
+            "title": "test post",
+            "summary": "test post",
+            "content_html": "<p>test post</p>",
+            "author": {
+                "name": "Greg Martin"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-11-22T20:10:57-08:00",
+            "date_modified": "2025-11-22T20:10:57-08:00"
+        }
+    ]
+}

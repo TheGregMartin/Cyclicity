@@ -1,2 +1,0 @@
-# Cyclicity
-Cyclicity web site
