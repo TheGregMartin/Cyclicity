@@ -11,8 +11,8 @@
     },
     "items": [
         {
-            "id": "https://TheGregMartin.github.io/Cyclicity/test-post.html",
-            "url": "https://TheGregMartin.github.io/Cyclicity/test-post.html",
+            "id": "https://TheGregMartin.github.io/Cyclicity/test-post/index.html",
+            "url": "https://TheGregMartin.github.io/Cyclicity/test-post/index.html",
             "title": "test post",
             "summary": "test post",
             "content_html": "<p>test post</p>",
