@@ -3,12 +3,34 @@
     <title>Cyclicity</title>
     <link href="https://TheGregMartin.github.io/Cyclicity/feed.xml" rel="self" />
     <link href="https://TheGregMartin.github.io/Cyclicity" />
-    <updated>2025-11-25T12:55:56-08:00</updated>
+    <updated>2025-11-25T13:06:50-08:00</updated>
     <author>
         <name>Greg Martin</name>
     </author>
     <id>https://TheGregMartin.github.io/Cyclicity</id>
 
+    <entry>
+        <title>test3</title>
+        <author>
+            <name>Greg Martin</name>
+        </author>
+        <link href="https://TheGregMartin.github.io/Cyclicity/test3/index.html"/>
+        <id>https://TheGregMartin.github.io/Cyclicity/test3/index.html</id>
+            <category term="test"/>
+            <category term="Posts during play"/>
+
+        <updated>2025-11-25T13:06:50-08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Greg: In the actual game these branch point cards would be shuffled, but for the tutorial we’ll do them in&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Greg: In the actual game these branch point cards would be shuffled, but for the tutorial we’ll do them in order. The front of each branch point card presents a scenario where a decision is needed, and two possible choices (0 and 1) that you will decide between by voting. The back of the card, which we should never look at until the vote is decided, describes the outcome of the decision.<br>fff: [reads the first branch point card aloud]<br>Greg: Note how these symbols indicate a slider that will go up if that decision is made—artificial intelligence for the 0 choice, and genetics for the 1 choice. I’ll put these 0 and 1 tokens near those sliders as a reminder during the discussion and voting.<br>aaa: I’ll vote for option 1, because [make something up]. I’ll deploy my Voting Tile with the 1 side up, and put two of my available drones on it.<br>Greg: When you deploy your Voting Tile, you put as many drones as you want on it. Remember to take those drones from behind your screen, not your drone reserve (which is just a pile of tokens that aren’t in play but might enter play later).<br>Greg: Also, the Sponsor tile is always held by the player with the most drones on their voting tile. So I’ll give aaa the Sponsor tile now.<br>bbb: I choose not to vote because [make something up]. I’ll deploy my Abstain tile.<br>Greg: On your first turn of every vote, you have to either deploy a Voting Tile with one or more drones, or else deploy your Abstain tile and take some non-voting action. Right now the only available actions are the Drone Factory and the Mining Operations on your installation mat. (You’re allowed to take no action, but those two actions are almost always better than passing.)</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>test2</title>
         <author>
