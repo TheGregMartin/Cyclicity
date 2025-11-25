@@ -3,10 +3,53 @@
     <title>Cyclicity</title>
     <link href="https://TheGregMartin.github.io/Cyclicity/feed.xml" rel="self" />
     <link href="https://TheGregMartin.github.io/Cyclicity" />
-    <updated>1969-12-31T16:00:00-08:00</updated>
+    <updated>2025-11-25T12:55:56-08:00</updated>
     <author>
         <name>Greg Martin</name>
     </author>
     <id>https://TheGregMartin.github.io/Cyclicity</id>
 
+    <entry>
+        <title>test2</title>
+        <author>
+            <name>Greg Martin</name>
+        </author>
+        <link href="https://TheGregMartin.github.io/Cyclicity/test2/index.html"/>
+        <id>https://TheGregMartin.github.io/Cyclicity/test2/index.html</id>
+            <category term="test"/>
+
+        <updated>2025-11-25T12:54:37-08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    test2
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>test2</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>test1</title>
+        <author>
+            <name>Greg Martin</name>
+        </author>
+        <link href="https://TheGregMartin.github.io/Cyclicity/test1/index.html"/>
+        <id>https://TheGregMartin.github.io/Cyclicity/test1/index.html</id>
+            <category term="test"/>
+            <category term="live"/>
+
+        <updated>2025-11-25T12:53:57-08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    test1
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>test1</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
