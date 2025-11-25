@@ -3,7 +3,7 @@
     <title>Cyclicity</title>
     <link href="https://TheGregMartin.github.io/Cyclicity/feed.xml" rel="self" />
     <link href="https://TheGregMartin.github.io/Cyclicity" />
-    <updated>2025-11-25T13:06:50-08:00</updated>
+    <updated>2025-11-25T13:09:12-08:00</updated>
     <author>
         <name>Greg Martin</name>
     </author>
@@ -16,7 +16,6 @@
         </author>
         <link href="https://TheGregMartin.github.io/Cyclicity/test3/index.html"/>
         <id>https://TheGregMartin.github.io/Cyclicity/test3/index.html</id>
-            <category term="test"/>
             <category term="Posts during play"/>
 
         <updated>2025-11-25T13:06:50-08:00</updated>
@@ -38,7 +37,6 @@
         </author>
         <link href="https://TheGregMartin.github.io/Cyclicity/test2/index.html"/>
         <id>https://TheGregMartin.github.io/Cyclicity/test2/index.html</id>
-            <category term="test"/>
 
         <updated>2025-11-25T12:54:37-08:00</updated>
             <summary type="html">
@@ -59,8 +57,6 @@
         </author>
         <link href="https://TheGregMartin.github.io/Cyclicity/test1/index.html"/>
         <id>https://TheGregMartin.github.io/Cyclicity/test1/index.html</id>
-            <category term="test"/>
-            <category term="live"/>
 
         <updated>2025-11-25T12:53:57-08:00</updated>
             <summary type="html">
