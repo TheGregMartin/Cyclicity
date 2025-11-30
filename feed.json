@@ -10,5 +10,34 @@
         "name": "Greg Martin"
     },
     "items": [
+        {
+            "id": "https://TheGregMartin.github.io/Cyclicity/posts-during-play/index.html",
+            "url": "https://TheGregMartin.github.io/Cyclicity/posts-during-play/index.html",
+            "title": "Posts during play",
+            "summary": "This is the page where I will post information that arises during one of our games, so that you have&hellip;",
+            "content_html": "<p>This is the page where I will post information that arises during one of our games, so that you have access to new rules in some reasonable written form.</p>",
+            "author": {
+                "name": "Greg Martin"
+            },
+            "tags": [
+                   "Posts during play"
+            ],
+            "date_published": "2025-11-29T22:20:47-08:00",
+            "date_modified": "2025-11-29T22:20:47-08:00"
+        },
+        {
+            "id": "https://TheGregMartin.github.io/Cyclicity/first-stage-transition/index.html",
+            "url": "https://TheGregMartin.github.io/Cyclicity/first-stage-transition/index.html",
+            "title": "First Stage Transition",
+            "summary": "So far have been in Terran Stage. We're now doing a stage transition. Mark box on installations with stage transition&hellip;",
+            "content_html": "<p class=\"p1\">So far have been in Terran Stage. We're now doing a stage transition.</p>\n<p class=\"p2\"> </p>\n<p class=\"p1\">Mark box on installations with stage transition icon.</p>\n<p class=\"p2\"> </p>\n<p class=\"p1\">Move installations to back of installation mat, lines 1 2 3</p>\n<p class=\"p1\">make them form a hexagon around the cards in the middle of the table</p>\n<p class=\"p1\">(installation rule cards)</p>\n<p class=\"p1\">drone reserve nearby</p>\n<p class=\"p2\"> </p>\n<p class=\"p1\">Three rounds where you maneuver for control of the major stations, secure your existing installations … and possibly steal other players’ installations during the scramble.</p>\n<p class=\"p1\">Supply ships each round: 8 + half # installations (round down) + half EGO</p>\n<p class=\"p1\">Order of play</p>\n<p class=\"p1\">* first round: 1st, 2nd, ..., 6th</p>\n<p class=\"p1\">* second round: 6th, 5th, ..., 1st</p>\n<p class=\"p1\">* third round will be described after the first two rounds are completed</p>\n<p class=\"p2\"> </p>\n<p class=\"p1\">Once a station has at least one drone on it, it is controlled by the player who has placed the most drones there so far. Put that player’s drones on top of the station and other players’ drones beside that station to help track control. Control only changes to a new player if that player has more drones on the station—tying for the most drones is not enough, and the player already controlling it retains control.</p>\n<p class=\"p2\"> </p>\n<p class=\"p1\">Each installation is also controlled by the player who has placed the most drones on it, just like stations, except that an installation with no drones on it is controlled by its owner.</p>\n<p class=\"p2\"> </p>\n<p class=\"p1\">Take a few minutes to look at all the players’ installations, and note the installation numbers of any you might be interested in stealing!</p>\n<p class=\"p2\"> </p>\n<p class=\"p1\">Supply ships cannot change hands; they are only there to mark how many actions a player can take each round. There is no bribing during stage transitions, and any agreements among players are non-binding.</p>",
+            "author": {
+                "name": "Greg Martin"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-11-29T00:32:12-08:00",
+            "date_modified": "2025-11-29T00:32:12-08:00"
+        }
     ]
 }
