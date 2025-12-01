@@ -3,7 +3,7 @@
     <title>Cyclicity</title>
     <link href="https://TheGregMartin.github.io/Cyclicity/feed.xml" rel="self" />
     <link href="https://TheGregMartin.github.io/Cyclicity" />
-    <updated>2025-11-29T22:20:47-08:00</updated>
+    <updated>2025-11-30T16:39:52-08:00</updated>
     <author>
         <name>Greg Martin</name>
     </author>
@@ -41,34 +41,28 @@
         <updated>2025-11-29T00:32:12-08:00</updated>
             <summary type="html">
                 <![CDATA[
-                    So far have been in Terran Stage. We're now doing a stage transition. Mark box on installations with stage transition&hellip;
+                    Up until now, the campaign has been in its Terran Stage. This event is the transition into the Solar Stage.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p class="p1">So far have been in Terran Stage. We're now doing a stage transition.</p>
-<p class="p2"> </p>
-<p class="p1">Mark box on installations with stage transition icon.</p>
-<p class="p2"> </p>
-<p class="p1">Move installations to back of installation mat, lines 1 2 3</p>
-<p class="p1">make them form a hexagon around the cards in the middle of the table</p>
-<p class="p1">(installation rule cards)</p>
-<p class="p1">drone reserve nearby</p>
-<p class="p2"> </p>
-<p class="p1">Three rounds where you maneuver for control of the major stations, secure your existing installations … and possibly steal other players’ installations during the scramble.</p>
-<p class="p1">Supply ships each round: 8 + half # installations (round down) + half EGO</p>
-<p class="p1">Order of play</p>
-<p class="p1">* first round: 1st, 2nd, ..., 6th</p>
-<p class="p1">* second round: 6th, 5th, ..., 1st</p>
-<p class="p1">* third round will be described after the first two rounds are completed</p>
-<p class="p2"> </p>
-<p class="p1">Once a station has at least one drone on it, it is controlled by the player who has placed the most drones there so far. Put that player’s drones on top of the station and other players’ drones beside that station to help track control. Control only changes to a new player if that player has more drones on the station—tying for the most drones is not enough, and the player already controlling it retains control.</p>
-<p class="p2"> </p>
-<p class="p1">Each installation is also controlled by the player who has placed the most drones on it, just like stations, except that an installation with no drones on it is controlled by its owner.</p>
-<p class="p2"> </p>
-<p class="p1">Take a few minutes to look at all the players’ installations, and note the installation numbers of any you might be interested in stealing!</p>
-<p class="p2"> </p>
-<p class="p1">Supply ships cannot change hands; they are only there to mark how many actions a player can take each round. There is no bribing during stage transitions, and any agreements among players are non-binding.</p>
+                <p class="p1">Up until now, the campaign has been in its Terran Stage. This event is the transition into the Solar Stage. The event will take place over three rounds, where each player maneuvers for control of the four major stations, secures their existing installations … and possibly steals other players’ installations during the scramble.</p>
+<h3>Setup</h3>
+<figure class="post__image"><span class="s3"><img  src="https://TheGregMartin.github.io/Cyclicity/media/posts/33/stage.png" alt="" width="30" height="30" sizes="(max-width: 48em) 100vw, 768px" srcset="https://TheGregMartin.github.io/Cyclicity/media/posts/33/responsive/stage-xs.png 300w ,https://TheGregMartin.github.io/Cyclicity/media/posts/33/responsive/stage-sm.png 480w ,https://TheGregMartin.github.io/Cyclicity/media/posts/33/responsive/stage-md.png 768w"></figure><figure class="post__image"><img loading="lazy"  src="file:///Users/gerg/Documents/Publii/sites/cyclicity/input/media/posts/14/whiteness.png" alt="" width="20" height="30" sizes="(max-width: 48em) 100vw, 768px" srcset="file:///Users/gerg/Documents/Publii/sites/cyclicity/input/media/posts/14/responsive/whiteness-xs.png 300w ,file:///Users/gerg/Documents/Publii/sites/cyclicity/input/media/posts/14/responsive/whiteness-sm.png 480w ,file:///Users/gerg/Documents/Publii/sites/cyclicity/input/media/posts/14/responsive/whiteness-md.png 768w"></figure></span>Before beginning the event, mark one box on every installation with the stage transition icon.</p>
+<p class="p2">Remove all installations from your mat, keeping track of which ones are in your Inner, Middle, and Outer Zones. Flip the installation mat upside down, oriented so that the numbers are readable to you (with 1 closest to you). Put your installations on this side of the mat, with Inner Zone installations on the 1 arc, Middle Zone installations on the 2 arc, and Outer Zone installations on the 3 arc. (Their horizontal placement doesn’t matter; it might help to have the installations spread as far apart as possible.)</p>
+<p class="p1">All players position their installation mats around the cards and supply ship reserve on the table, so that the six mats form a hexagon around them. Place any installation explanation cards adjacent to your installation mat, available for everyone to see, as well as your ranking card from the previous game. Keep your drone reserve behind your polity screen.</p>
+<h3 class="p1">Description of play</h3>
+<p>At the beginning of each of the three rounds, each player starts with a certain amount of supply ships that they can allocate during that round. That amount (which is the same for each of the rounds) is <strong>8, plus half the number of installations they have (rounded down), plus half their polity’s EGO</strong>. [LINK] On a player’s turn, they may spend any or all of their supply ships for that round to place drones on various stations and/or installations. The number of supply ships needed to place a drone on various locations is listed on the Cost Reference card in the middle of the table.</p>
+<p class="p1">Once a station has at least one drone on it, it is <strong>controlled</strong> by the player who has placed the most drones there so far. Put that player’s drones on top of the station and other players’ drones beside that station, to help track who controls it at the moment. Control only changes to a new player if that player has more drones on the station—tying for the most drones is not enough, and the player already controlling it retains control.</p>
+<p class="p1">Each installation is also <strong>controlled</strong> by the player who has placed the most drones on it, just like stations—except that an installation with no drones on it is controlled by its owner.</p>
+<p class="p1">Take a few minutes to look at all the players’ installations, and take note any installations you might be interested in stealing! (It might help to record their actual installation numbers privately.)</p>
+<p class="p1">The order of play is as follows:</p>
+<ul>
+<li class="p1">In the first round, the player with the 1st-place ranking card goes first, followed by the 2nd-place player, and so on, ending with the 6th-place player.</li>
+<li>The second round goes in the reverse order: the player with the 6th-place ranking card goes first, followed by the 5th-place player, and so on, ending with the 1st-place player.</li>
+<li class="p1">After the second round has been completed, turn over the card on top of the remainder of Envelope B1, and follow its instructions to carry out the third and final round of this event.</li>
+</ul>
+<p><em>Note: Supply ships cannot change hands during this event—they are only there to determine how many actions a player can take each round. There is no bribing during stage transitions, and any agreements among players are non-binding.</em></p>
             ]]>
         </content>
     </entry>
