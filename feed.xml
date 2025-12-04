@@ -3,7 +3,7 @@
     <title>Cyclicity</title>
     <link href="https://TheGregMartin.github.io/Cyclicity/feed.xml" rel="self" />
     <link href="https://TheGregMartin.github.io/Cyclicity" />
-    <updated>2025-12-02T17:17:16-08:00</updated>
+    <updated>2025-12-04T12:16:35-08:00</updated>
     <author>
         <name>Greg Martin</name>
     </author>
@@ -36,7 +36,7 @@
 <p>Give each polity their Polity Outpost tiles. Next, determine the nature of each outpost’s co-sponsorship and put the correspondoing Central Outpost tile into play:</p>
 <ul>
 <li>If neither co-sponsoring polity placed a drone on the Seize Authority card, give the pair of polities the Cooperative tile corresponding to their outpost.</li>
-<li>If exactly one co-sponsoring polity placed a drone on the Seize Authority card, give the pair of polities the Seized Authority tile corresponding to their outpost.</li>
+<li>If exactly one co-sponsoring polity placed a drone on the Seize Authority card, give the pair of polities the Authority Seized tile corresponding to their outpost.</li>
 <li>If both co-sponsoring polities placed a drone on the Seize Authority card, give the pair of polities the Malfunctioning tile corresponding to their outpost.</li>
 </ul>
 <p>All these Central Outpost tiles have rules on the back that describe how the Polity Outpost tiles are positioned and what their action spots do. <strong>In every game from now on, the two polities co-sponsoring each outpost must be seated next to each other.</strong></p>
