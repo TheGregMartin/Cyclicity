@@ -3,12 +3,88 @@
     <title>Cyclicity</title>
     <link href="https://TheGregMartin.github.io/Cyclicity/feed.xml" rel="self" />
     <link href="https://TheGregMartin.github.io/Cyclicity" />
-    <updated>2025-12-12T12:56:52-06:00</updated>
+    <updated>2025-12-27T11:33:17-06:00</updated>
     <author>
         <name>Greg Martin</name>
     </author>
     <id>https://TheGregMartin.github.io/Cyclicity</id>
 
+    <entry>
+        <title>Outpost tile rules</title>
+        <author>
+            <name>Greg Martin</name>
+        </author>
+        <link href="https://TheGregMartin.github.io/Cyclicity/outpost-tile-rules/index.html"/>
+        <id>https://TheGregMartin.github.io/Cyclicity/outpost-tile-rules/index.html</id>
+
+        <updated>2025-12-27T11:28:59-06:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    after transition to Interstellar Stage
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>after transition to Interstellar Stage</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Genetic Profile information</title>
+        <author>
+            <name>Greg Martin</name>
+        </author>
+        <link href="https://TheGregMartin.github.io/Cyclicity/genetic-profile-information/index.html"/>
+        <id>https://TheGregMartin.github.io/Cyclicity/genetic-profile-information/index.html</id>
+
+        <updated>2025-12-27T11:28:42-06:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Terminology: PPGP stands for Polity Population Genetic Profile, EGO stands for Essential Genome Offset The four categories of essential genes&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="p3">Terminology: PPGP stands for Polity Population Genetic Profile, EGO stands for Essential Genome Offset</p>
+<p>The four categories of essential genes are Complementary, Duplicate, Fungible, and Polymeric.</p>
+<ul class="ul1">
+<li class="li1">Complementary genes—classic Mendelian dominant/recessive; limits evolution, somewhat promotes heterogeneity</li>
+<li class="li1">Duplicate genes—multiple copies of dominant/recessive; reinforces homogeneity, somewhat limits evolution</li>
+<li class="li1">Fungible genes—high likelihood of mutation/relocation without harm; promotes evolution, somewhat reinforces homogeneity</li>
+<li class="li1">Polymeric genes—different dominants can combine; reinforces heterogeneity, somewhat promotes evolution</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>The Adjust PPGP action</title>
+        <author>
+            <name>Greg Martin</name>
+        </author>
+        <link href="https://TheGregMartin.github.io/Cyclicity/the-adjust-ppgp-action/index.html"/>
+        <id>https://TheGregMartin.github.io/Cyclicity/the-adjust-ppgp-action/index.html</id>
+
+        <updated>2025-12-27T11:27:57-06:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    When taking this action, choose one gene type currently at 25% or more and one gene type currently at 25%&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>When taking this action, choose one gene type currently at 25% or more and one gene type currently at 25% or less. Add 1% to the higher gene type by filling in the box above the highest box already filled; and subtract 1% from the lower gene type by filling in the box below the lowest box already filled.</p>
+<ul class="ul1">
+<li class="li3">Once a gene type’s percentage is increased above 25%, it can never be reduced; and once a gene type’s percentage is reduced below 25%, it can never be increased. That’s not a problem though—there will never be a reason or incentive to both increase and reduce the same gene type. (Trust your polity’s central genetic planners!)</li>
+</ul>
+<p>In addition to the single drone (which must remain on the PPGP mat until the end of the game), this action also requires double-marking a certain number of single-marked boxes in the grid (always starting from the top row of the grid, from left to right).</p>
+<ul class="ul1">
+<li class="li3">The number of single-marked boxes that must be double-marked is the new percentage of the higher gene type minus the new percentage of the lower gene type. For example, if the higher gene type is increasing from 27% to 28% and the lower gene type is decreasing from 24% to 23%, the number of boxes that must be double-marked is 28 – 23 = 5. This is the same as the number of marks in both genes’ columns total after the action is taken.</li>
+<li class="li3">If there are not enough single-marked boxes in the grid, this action cannot be taken.</li>
+</ul>
+<p>Adjusting PPGP is the only thing that double-marking boxes will be used for, so there’s no need to ration them or hold back.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Second Stage Transition—Conclusion</title>
         <author>
@@ -77,7 +153,7 @@
             <![CDATA[
                 <p class="p1">This event is the transition from the Solar Stage into the Interstellar Stage. The event will take place over three rounds, where each player maneuvers for joint control of the three outposts, secures their existing installations … and possibly steals other players’ installations during the scramble.</p>
 <h3>Setup</h3>
-<figure class="post__image"><span class="s3"><img  src="https://TheGregMartin.github.io/Cyclicity/media/posts/36/stage.png" alt="" width="30" height="30" sizes="(max-width: 48em) 100vw, 768px" srcset="https://TheGregMartin.github.io/Cyclicity/media/posts/36/responsive/stage-xs.png 300w ,https://TheGregMartin.github.io/Cyclicity/media/posts/36/responsive/stage-sm.png 480w ,https://TheGregMartin.github.io/Cyclicity/media/posts/36/responsive/stage-md.png 768w"></figure><figure class="post__image"><img loading="lazy"  src="file:///Users/gerg/Documents/Publii/sites/cyclicity/input/media/posts/14/whiteness.png" alt="" width="20" height="30" sizes="(max-width: 48em) 100vw, 768px" srcset="file:///Users/gerg/Documents/Publii/sites/cyclicity/input/media/posts/14/responsive/whiteness-xs.png 300w ,file:///Users/gerg/Documents/Publii/sites/cyclicity/input/media/posts/14/responsive/whiteness-sm.png 480w ,file:///Users/gerg/Documents/Publii/sites/cyclicity/input/media/posts/14/responsive/whiteness-md.png 768w"></figure></span>Before beginning the event, mark one box on every installation with the stage transition icon. Immediately destroy all such installations that have both of their boxes marked.</p>
+<figure class="post__image"><img loading="lazy"  src="https://TheGregMartin.github.io/Cyclicity/media/posts/36/stage-2.png" alt="" width="46" height="30" sizes="(max-width: 48em) 100vw, 768px" srcset="https://TheGregMartin.github.io/Cyclicity/media/posts/36/responsive/stage-2-xs.png 300w ,https://TheGregMartin.github.io/Cyclicity/media/posts/36/responsive/stage-2-sm.png 480w ,https://TheGregMartin.github.io/Cyclicity/media/posts/36/responsive/stage-2-md.png 768w"></figure>Before beginning the event, mark one box on every installation with the stage transition icon. Immediately destroy all such installations that have both of their boxes marked.</p>
 <p class="p2">Remove all installations from your mat, keeping track of which ones are in your Inner, Middle, and Outer Zones. Flip the installation mat upside down, oriented so that the numbers are readable to you (with 1 closest to you). Put your installations on this side of the mat, with Inner Zone installations on the 1 arc, Middle Zone installations on the 2 arc, and Outer Zone installations on the 3 arc. (Their horizontal placement doesn’t matter; it might help to have the installations spread as far apart as possible.) <em>If you have too many Inner Zone installations to fit them all on the 1 arc, move one or two of your choice to the 2 arc.</em></p>
 <p class="p1">All players position their installation mats around the cards and supply ship reserve on the table, so that the six mats form a hexagon around them. Place any installation explanation cards adjacent to your installation mat, available for everyone to see, as well as your ranking card from the previous game. Keep your drone reserve behind your polity screen.</p>
 <h3 class="p1">Description of play</h3>
@@ -113,7 +189,7 @@
         <content type="html">
             <![CDATA[
                 <p>When all players have finished recording their allocations for the third round, turn all their third-round cards face up for everyone to see.</p>
-<p><em>It’s recommended for players to pair up and quickly check the arithmetic of each other’s drone allocations. If a player has spent more supply ships than they had available, their drone allocations will be carried out as fully as possible starting from the top of the card.</em></p>
+<p><em>It’s recommended for players to pair up and quickly check the arithmetic of each other’s drone allocations. If a player has spent more supply ships than they had available, their drone allocations are carried out as fully as possible starting from the top of the card.</em></p>
 <h3>Determining final control</h3>
 <p>Start by determining final control of the ORI station. Any players who allocated drones to the ORI simultaneously add their drones now (keeping them separate from the drones that were already there, so that it can still be determined how many drones were placed in the first pair of rounds). Whoever has the most drones on the ORI at this point is now based in the ORI and in charge of that station. That player receives installation C6, keeping it separate from their installation mat for now.</p>
 <ul>
@@ -185,7 +261,7 @@
             <![CDATA[
                 <p class="p1">Up until now, the campaign has been in its Terran Stage. This event is the transition into the Solar Stage. The event will take place over three rounds, where each player maneuvers for control of the four major stations, secures their existing installations … and possibly steals other players’ installations during the scramble.</p>
 <h3>Setup</h3>
-<figure class="post__image"><span class="s3"><img  src="https://TheGregMartin.github.io/Cyclicity/media/posts/33/stage.png" alt="" width="30" height="30" sizes="(max-width: 48em) 100vw, 768px" srcset="https://TheGregMartin.github.io/Cyclicity/media/posts/33/responsive/stage-xs.png 300w ,https://TheGregMartin.github.io/Cyclicity/media/posts/33/responsive/stage-sm.png 480w ,https://TheGregMartin.github.io/Cyclicity/media/posts/33/responsive/stage-md.png 768w"></figure><figure class="post__image"><img loading="lazy"  src="file:///Users/gerg/Documents/Publii/sites/cyclicity/input/media/posts/14/whiteness.png" alt="" width="20" height="30" sizes="(max-width: 48em) 100vw, 768px" srcset="file:///Users/gerg/Documents/Publii/sites/cyclicity/input/media/posts/14/responsive/whiteness-xs.png 300w ,file:///Users/gerg/Documents/Publii/sites/cyclicity/input/media/posts/14/responsive/whiteness-sm.png 480w ,file:///Users/gerg/Documents/Publii/sites/cyclicity/input/media/posts/14/responsive/whiteness-md.png 768w"></figure></span>Before beginning the event, mark one box on every installation with the stage transition icon.</p>
+<figure class="post__image"><img loading="lazy"  src="https://TheGregMartin.github.io/Cyclicity/media/posts/33/stage-2.png" alt="" width="46" height="30" sizes="(max-width: 48em) 100vw, 768px" srcset="https://TheGregMartin.github.io/Cyclicity/media/posts/33/responsive/stage-2-xs.png 300w ,https://TheGregMartin.github.io/Cyclicity/media/posts/33/responsive/stage-2-sm.png 480w ,https://TheGregMartin.github.io/Cyclicity/media/posts/33/responsive/stage-2-md.png 768w"></figure>Before beginning the event, mark one box on every installation with the stage transition icon.</p>
 <p class="p2">Remove all installations from your mat, keeping track of which ones are in your Inner, Middle, and Outer Zones. Flip the installation mat upside down, oriented so that the numbers are readable to you (with 1 closest to you). Put your installations on this side of the mat, with Inner Zone installations on the 1 arc, Middle Zone installations on the 2 arc, and Outer Zone installations on the 3 arc. (Their horizontal placement doesn’t matter; it might help to have the installations spread as far apart as possible.)</p>
 <p class="p1">All players position their installation mats around the cards and supply ship reserve on the table, so that the six mats form a hexagon around them. Place any installation explanation cards adjacent to your installation mat, available for everyone to see, as well as your ranking card from the previous game. Keep your drone reserve behind your polity screen.</p>
 <h3 class="p1">Description of play</h3>
