@@ -3,7 +3,7 @@
     <title>Cyclicity</title>
     <link href="https://TheGregMartin.github.io/Cyclicity/feed.xml" rel="self" />
     <link href="https://TheGregMartin.github.io/Cyclicity" />
-    <updated>2026-01-03T23:02:24-08:00</updated>
+    <updated>2026-01-03T23:25:19-08:00</updated>
     <author>
         <name>Greg Martin</name>
     </author>
@@ -173,9 +173,8 @@
 </ul>
 <p>In modern <em>homo sapiens</em> before the onset of widespread genetic therapies, each of these four categories contains roughly 25% of the essential genome. As polities promote particular modifications, however, their populations slowly come to possess different percentages of genes of these four categories.</p>
 <p>At any given time, each polity has a <strong>Polity Population Genetic Profile (PPGP)</strong> describing the percentage of essential genes coming from each of these categories. To measure how far a polity’s PPGP has diverged from the modern baseline, biologists use the term <strong>Essential Genome Offset (EGO)</strong>, defined to be the sum, across the four gene categories, of the absolute differences between the baseline percentage of 25% and the updated percentage of that gene type.</p>
-<p>For example</p>
-<p class="p3">Terminology: PPGP stands for Polity Population Genetic Profile, EGO stands for Essential Genome Offset</p>
-<p> </p>
+<p><em>For example, in the image below, Maya’s EGO is equal to (26–25) + (25–25) + (25–22) + (27–25) = 6. Note that a polity’s EGO is always the same as the number of marked boxes on their PPGP mat.</em></p>
+<figure class="post__image"><img loading="lazy"  src="https://TheGregMartin.github.io/Cyclicity/media/posts/68/PPGPmaya6a.png" alt="" width="1575" height="1575" sizes="(max-width: 48em) 100vw, 768px" srcset="https://TheGregMartin.github.io/Cyclicity/media/posts/68/responsive/PPGPmaya6a-xs.png 300w ,https://TheGregMartin.github.io/Cyclicity/media/posts/68/responsive/PPGPmaya6a-sm.png 480w ,https://TheGregMartin.github.io/Cyclicity/media/posts/68/responsive/PPGPmaya6a-md.png 768w"></figure>
             ]]>
         </content>
     </entry>
@@ -186,6 +185,7 @@
         </author>
         <link href="https://TheGregMartin.github.io/Cyclicity/the-adjust-ppgp-action/index.html"/>
         <id>https://TheGregMartin.github.io/Cyclicity/the-adjust-ppgp-action/index.html</id>
+            <category term="Posts during play"/>
 
         <updated>2025-12-27T09:27:57-08:00</updated>
             <summary type="html">
@@ -210,6 +210,28 @@
 <li class="li3">The number of single-marked boxes that must be double-marked is the new percentage of the higher gene type minus the new percentage of the lower gene type. For example, if the higher gene type is increasing from 27% to 28% and the lower gene type is decreasing from 24% to 23%, the number of boxes that must be double-marked is 28 – 23 = 5. This is the same as the number of marked boxes in both genes’ columns total after the action is taken.</li>
 <li class="li3">If there are not enough single-marked boxes in the grid, this action cannot be taken.</li>
 </ul>
+<p><em>Example: Maya wants to take the Adjust PPGP action. They currently have four marked boxes on their PPGP mat (two going down in the F column, and one going up in each of the C and P columns). There are five possible ways to take the Adjust PPGP action. However, two of them (the last two, with red marked boxes) require having five single-marked boxes in the grid on their polity screen, but they have only four available.</em></p>
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://TheGregMartin.github.io/Cyclicity/media/posts/67/gallery/screenmaya.png" data-size="1149x1157"><img loading="lazy" src="https://TheGregMartin.github.io/Cyclicity/media/posts/67/gallery/screenmaya-thumbnail.png" alt="Polity screen before Adjust PPGP action" width="720" height="725"></a>
+<figcaption>Polity screen before Adjust PPGP action</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://TheGregMartin.github.io/Cyclicity/media/posts/67/gallery/PPGPmaya6d.png" data-size="1575x1575"><img loading="lazy" src="https://TheGregMartin.github.io/Cyclicity/media/posts/67/gallery/PPGPmaya6d-thumbnail.png" alt="a possible 3-cost Adjust PPGP action" width="720" height="720"></a>
+<figcaption>a possible 3-cost Adjust PPGP action</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://TheGregMartin.github.io/Cyclicity/media/posts/67/gallery/PPGPmaya6e.png" data-size="1575x1575"><img loading="lazy" src="https://TheGregMartin.github.io/Cyclicity/media/posts/67/gallery/PPGPmaya6e-thumbnail.png" alt="another possible 3-cost Adjust PPGP action" width="720" height="720"></a>
+<figcaption>another possible 3-cost Adjust PPGP action</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://TheGregMartin.github.io/Cyclicity/media/posts/67/gallery/PPGPmaya6c.png" data-size="1575x1575"><img loading="lazy" src="https://TheGregMartin.github.io/Cyclicity/media/posts/67/gallery/PPGPmaya6c-thumbnail.png" alt="a possible 4-cost Adjust PPGP action" width="720" height="720"></a>
+<figcaption>a possible 4-cost Adjust PPGP action</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://TheGregMartin.github.io/Cyclicity/media/posts/67/gallery/PPGPmaya6b.png" data-size="1575x1575"><img loading="lazy" src="https://TheGregMartin.github.io/Cyclicity/media/posts/67/gallery/PPGPmaya6b-thumbnail.png" alt="a possible 5-cost Adjust PPGP action" width="720" height="720"></a>
+<figcaption>a possible 5-cost Adjust PPGP action</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://TheGregMartin.github.io/Cyclicity/media/posts/67/gallery/PPGPmaya6a.png" data-size="1575x1575"><img loading="lazy" src="https://TheGregMartin.github.io/Cyclicity/media/posts/67/gallery/PPGPmaya6a-thumbnail.png" alt="another possible 5-cost Adjust PPGP action" width="720" height="720"></a>
+<figcaption>another possible 5-cost Adjust PPGP action</figcaption>
+</figure>
+</div></div>
+<p> </p>
 <p>Adjusting PPGP is the only thing that double-marking boxes will be used for, so there’s no need to ration them or hold back.</p>
             ]]>
         </content>
