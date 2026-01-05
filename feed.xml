@@ -3,12 +3,85 @@
     <title>Cyclicity</title>
     <link href="https://TheGregMartin.github.io/Cyclicity/feed.xml" rel="self" />
     <link href="https://TheGregMartin.github.io/Cyclicity" />
-    <updated>2026-01-03T23:28:06-08:00</updated>
+    <updated>2026-01-04T17:25:07-08:00</updated>
     <author>
         <name>Greg Martin</name>
     </author>
     <id>https://TheGregMartin.github.io/Cyclicity</id>
 
+    <entry>
+        <title>Objective Rule cover tile (action)</title>
+        <author>
+            <name>Greg Martin</name>
+        </author>
+        <link href="https://TheGregMartin.github.io/Cyclicity/objective-rule-cover-tile-action/index.html"/>
+        <id>https://TheGregMartin.github.io/Cyclicity/objective-rule-cover-tile-action/index.html</id>
+
+        <updated>2026-01-04T17:25:07-08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Objective Rule cover tile There are three separate action spots on this tile; each one has no effect other than&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h4 class="p4"><span style="font-size: inherit;">Objective Rule cover tile</span></h4>
+<p class="p4"><span style="font-size: inherit;">There are three separate action spots on this tile; each one has no effect other than to leave the upside-down drone there for the rest of the game. Only one of the actions can be used per branch point vote.</span></p>
+<p>At the end of the game, if there are three drones from the same polity on this tile, that polity may mark one Polity Disposition box corresponding to the name of the Classified Polity Objective under this tile (or gain VP from overfilling), just as if they had drafted that objective themselves.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Wormhole Expeditions (action)</title>
+        <author>
+            <name>Greg Martin</name>
+        </author>
+        <link href="https://TheGregMartin.github.io/Cyclicity/wormhole-expeditions-action/index.html"/>
+        <id>https://TheGregMartin.github.io/Cyclicity/wormhole-expeditions-action/index.html</id>
+
+        <updated>2026-01-04T17:19:54-08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    As an action, any player may place as many drones from behind their screen as they wish onto the Wormhole&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>As an action, any player may place as many drones from behind their screen as they wish onto the Wormhole Expeditions card.</p>
+<p>A player may remove as many of their drones as they like from that card when either the Interstellar Replication card or Interstellar Trade Goods card is drawn from the branch point deck. When they do so, they gain additional drones or supply ships as described on the drawn card.</p>
+<p>When the solar cycle ends, all drones on the Wormhole Expeditions card are returned to their owners’ reserves.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Solar Flare Suppression (action)</title>
+        <author>
+            <name>Greg Martin</name>
+        </author>
+        <link href="https://TheGregMartin.github.io/Cyclicity/solar-flare-suppression-action/index.html"/>
+        <id>https://TheGregMartin.github.io/Cyclicity/solar-flare-suppression-action/index.html</id>
+
+        <updated>2026-01-04T17:16:43-08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    As an action, any player may place as many drones from behind their screen as they wish onto the Solar&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>As an action, any player may place as many drones from behind their screen as they wish onto the Solar Flare Suppression card.<br><br>When either of the following two cards are drawn:</p>
+<ul>
+<li>Sunspot activity still intensifying<figure class="post__image"><img loading="lazy"  src="file:///Users/gerg/Documents/Publii/sites/cyclicity/input/media/posts/73/solarflare.png" alt="" width="46" height="30" sizes="(max-width: 48em) 100vw, 768px" srcset="file:///Users/gerg/Documents/Publii/sites/cyclicity/input/media/posts/73/responsive/solarflare-xs.png 300w ,file:///Users/gerg/Documents/Publii/sites/cyclicity/input/media/posts/73/responsive/solarflare-sm.png 480w ,file:///Users/gerg/Documents/Publii/sites/cyclicity/input/media/posts/73/responsive/solarflare-md.png 768w"></figure></li>
+<li>Sunspot activity still critical<figure class="post__image"><img loading="lazy"  src="file:///Users/gerg/Documents/Publii/sites/cyclicity/input/media/posts/73/solarflare.png" alt="" width="46" height="30" sizes="(max-width: 48em) 100vw, 768px" srcset="file:///Users/gerg/Documents/Publii/sites/cyclicity/input/media/posts/73/responsive/solarflare-xs.png 300w ,file:///Users/gerg/Documents/Publii/sites/cyclicity/input/media/posts/73/responsive/solarflare-sm.png 480w ,file:///Users/gerg/Documents/Publii/sites/cyclicity/input/media/posts/73/responsive/solarflare-md.png 768w"></figure></li>
+</ul>
+<p>If the number of face-up drones on the Solar Flare Suppression card <span style="font-size: inherit;">equals or exceeds 6 </span>times the number of marked boxes on that card:</p>
+<ul>
+<li>Do not add the solar flare token<figure class="post__image"><img loading="lazy"  src="file:///Users/gerg/Documents/Publii/sites/cyclicity/input/media/posts/73/solarflare.png" alt="" width="46" height="30" sizes="(max-width: 48em) 100vw, 768px" srcset="file:///Users/gerg/Documents/Publii/sites/cyclicity/input/media/posts/73/responsive/solarflare-xs.png 300w ,file:///Users/gerg/Documents/Publii/sites/cyclicity/input/media/posts/73/responsive/solarflare-sm.png 480w ,file:///Users/gerg/Documents/Publii/sites/cyclicity/input/media/posts/73/responsive/solarflare-md.png 768w"></figure>.</li>
+<li>Permanently replace the drawn sunspot activity card with the corresponding card without the<figure class="post__image"><img loading="lazy"  src="file:///Users/gerg/Documents/Publii/sites/cyclicity/input/media/posts/73/solarflare.png" alt="" width="46" height="30" sizes="(max-width: 48em) 100vw, 768px" srcset="file:///Users/gerg/Documents/Publii/sites/cyclicity/input/media/posts/73/responsive/solarflare-xs.png 300w ,file:///Users/gerg/Documents/Publii/sites/cyclicity/input/media/posts/73/responsive/solarflare-sm.png 480w ,file:///Users/gerg/Documents/Publii/sites/cyclicity/input/media/posts/73/responsive/solarflare-md.png 768w"></figure>symbol.</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Solar flares (game concept)</title>
         <author>
@@ -54,7 +127,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p>As an action, any player may place as many drones from behind their screen as they wish onto the Solar Flare Mitigation card.<br><br>Once per game, if a <a href="https://TheGregMartin.github.io/Cyclicity/reference/game-concepts/index.html">solar flare token</a> would be added to the Solar Flare Damage card, and the number of drones on the Solar Flare Mitigation card equals or exceeds the number of marked boxes on that card: do not add the solar flare token.</p>
+                <figure class="post__image">As an action, any player may place as many drones from behind their screen as they wish onto the Solar Flare Mitigation card.<br><br><img loading="lazy"  src="https://TheGregMartin.github.io/Cyclicity/media/posts/73/solarflare.png" alt="" width="46" height="30" sizes="(max-width: 48em) 100vw, 768px" srcset="https://TheGregMartin.github.io/Cyclicity/media/posts/73/responsive/solarflare-xs.png 300w ,https://TheGregMartin.github.io/Cyclicity/media/posts/73/responsive/solarflare-sm.png 480w ,https://TheGregMartin.github.io/Cyclicity/media/posts/73/responsive/solarflare-md.png 768w"></figure>Once per game, if a <a href="https://TheGregMartin.github.io/Cyclicity/reference/game-concepts/index.html">solar flare token</a> would be added to the Solar Flare Damage card, and the number of drones on the Solar Flare Mitigation card equals or exceeds the number of marked boxes on that card: do not add the solar flare token.</p>
             ]]>
         </content>
     </entry>
@@ -175,150 +248,6 @@
 <p>At any given time, each polity has a <strong>Polity Population Genetic Profile (PPGP)</strong> describing the percentage of essential genes coming from each of these categories. To measure how far a polity’s PPGP has diverged from the modern baseline, biologists use the term <strong>Essential Genome Offset (EGO)</strong>, defined to be the sum, across the four gene categories, of the absolute differences between the baseline percentage of 25% and the updated percentage of that gene type.</p>
 <p><em>For example, in the image below, Maya’s EGO is equal to (26–25) + (25–25) + (25–22) + (27–25) = 6. Note that a polity’s EGO is always the same as the number of marked boxes on their PPGP mat.</em></p>
 <figure class="post__image"><img loading="lazy"  src="https://TheGregMartin.github.io/Cyclicity/media/posts/68/PPGPmaya6a.png" alt="" width="1575" height="1575" sizes="(max-width: 48em) 100vw, 768px" srcset="https://TheGregMartin.github.io/Cyclicity/media/posts/68/responsive/PPGPmaya6a-xs.png 300w ,https://TheGregMartin.github.io/Cyclicity/media/posts/68/responsive/PPGPmaya6a-sm.png 480w ,https://TheGregMartin.github.io/Cyclicity/media/posts/68/responsive/PPGPmaya6a-md.png 768w"></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Adjust PPGP (action)</title>
-        <author>
-            <name>Greg Martin</name>
-        </author>
-        <link href="https://TheGregMartin.github.io/Cyclicity/the-adjust-ppgp-action/index.html"/>
-        <id>https://TheGregMartin.github.io/Cyclicity/the-adjust-ppgp-action/index.html</id>
-
-        <updated>2025-12-27T09:27:57-08:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    When taking the Adjust PPGP action on your PPGP mat, choose one gene type currently at 25% or more and&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>When taking the Adjust PPGP action on your PPGP mat, choose one gene type currently at 25% or more and one gene type currently at 25% or less. Add 1% to the higher gene type by filling in the box above the highest box already filled; and subtract 1% from the lower gene type by filling in the box below the lowest box already filled.</p>
-<ul class="ul1">
-<li>Note that this action increases a polity’s EGO by 2.</li>
-<li class="li3">Once a gene type’s percentage is increased above 25%, it can never be reduced; and once a gene type’s percentage is reduced below 25%, it can never be increased.
-<ul class="ul1">
-<li class="li3">That’s not a problem though—there will never be a reason or incentive to both increase and reduce the same gene type. (Trust your polity’s central genetic planners!)</li>
-<li>Similarly, if you have a goal that mentions some gene types but does not mention others, the other gene types will never be relevant—so you don’t have to worry about how you use them.</li>
-</ul>
-</li>
-</ul>
-<p>In addition to the single drone (which must remain on the PPGP mat until the end of the game), this action also requires double-marking a certain number of single-marked boxes in the Progress Points grid (always starting from the top row of the grid, from left to right).</p>
-<ul class="ul1">
-<li class="li3">The number of single-marked boxes that must be double-marked is the new percentage of the higher gene type minus the new percentage of the lower gene type. For example, if the higher gene type is increasing from 27% to 28% and the lower gene type is decreasing from 24% to 23%, the number of boxes that must be double-marked is 28 – 23 = 5. This is the same as the number of marked boxes in both genes’ columns total after the action is taken.</li>
-<li class="li3">If there are not enough single-marked boxes in the grid, this action cannot be taken.</li>
-</ul>
-<p><em>Example: Maya wants to take the Adjust PPGP action. They currently have four marked boxes on their PPGP mat (two going down in the F column, and one going up in each of the C and P columns). There are five possible ways to take the Adjust PPGP action. However, two of them (the last two, with red marked boxes) require having five single-marked boxes in the grid on their polity screen, but they have only four available.</em></p>
-<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://TheGregMartin.github.io/Cyclicity/media/posts/67/gallery/screenmaya.png" data-size="1149x1157"><img loading="lazy" src="https://TheGregMartin.github.io/Cyclicity/media/posts/67/gallery/screenmaya-thumbnail.png" alt="Polity screen before Adjust PPGP action" width="720" height="725"></a>
-<figcaption>Polity screen before Adjust PPGP action</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://TheGregMartin.github.io/Cyclicity/media/posts/67/gallery/PPGPmaya6d.png" data-size="1575x1575"><img loading="lazy" src="https://TheGregMartin.github.io/Cyclicity/media/posts/67/gallery/PPGPmaya6d-thumbnail.png" alt="a possible 3-cost Adjust PPGP action" width="720" height="720"></a>
-<figcaption>a possible 3-cost Adjust PPGP action</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://TheGregMartin.github.io/Cyclicity/media/posts/67/gallery/PPGPmaya6e.png" data-size="1575x1575"><img loading="lazy" src="https://TheGregMartin.github.io/Cyclicity/media/posts/67/gallery/PPGPmaya6e-thumbnail.png" alt="another possible 3-cost Adjust PPGP action" width="720" height="720"></a>
-<figcaption>another possible 3-cost Adjust PPGP action</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://TheGregMartin.github.io/Cyclicity/media/posts/67/gallery/PPGPmaya6c.png" data-size="1575x1575"><img loading="lazy" src="https://TheGregMartin.github.io/Cyclicity/media/posts/67/gallery/PPGPmaya6c-thumbnail.png" alt="a possible 4-cost Adjust PPGP action" width="720" height="720"></a>
-<figcaption>a possible 4-cost Adjust PPGP action</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://TheGregMartin.github.io/Cyclicity/media/posts/67/gallery/PPGPmaya6b.png" data-size="1575x1575"><img loading="lazy" src="https://TheGregMartin.github.io/Cyclicity/media/posts/67/gallery/PPGPmaya6b-thumbnail.png" alt="a possible 5-cost Adjust PPGP action" width="720" height="720"></a>
-<figcaption>a possible 5-cost Adjust PPGP action</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://TheGregMartin.github.io/Cyclicity/media/posts/67/gallery/PPGPmaya6a.png" data-size="1575x1575"><img loading="lazy" src="https://TheGregMartin.github.io/Cyclicity/media/posts/67/gallery/PPGPmaya6a-thumbnail.png" alt="another possible 5-cost Adjust PPGP action" width="720" height="720"></a>
-<figcaption>another possible 5-cost Adjust PPGP action</figcaption>
-</figure>
-</div></div>
-<p> </p>
-<p>Adjusting PPGP is the only thing that double-marking boxes will be used for, so there’s no need to ration them or hold back.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Second Stage Transition—Conclusion</title>
-        <author>
-            <name>Greg Martin</name>
-        </author>
-        <link href="https://TheGregMartin.github.io/Cyclicity/first-stage-transition-conclusion-2/index.html"/>
-        <id>https://TheGregMartin.github.io/Cyclicity/first-stage-transition-conclusion-2/index.html</id>
-
-        <updated>2025-12-02T13:01:54-08:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    When all players have finished recording their allocations for the third round, turn all their third-round cards face up for&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>When all players have finished recording their allocations for the third round, turn all their third-round cards face up for everyone to see.</p>
-<p><em>It’s recommended for players to pair up and quickly check the arithmetic of each other’s drone allocations. If a player has spent more supply ships than they had available, their drone allocations will be carried out as fully as possible starting from the top of the card.</em></p>
-<h3>Determining final control</h3>
-<p>Start by determining final control of the outpost with the most total drones on it. <em>In the event of a tie, the player with the first-place ranking card chooses which outpost to address.</em> Any players who allocated drones to this outpost simultaneously add their drones now (keeping them separate from the drones that were already there, so that it can still be determined how many drones were placed in the first pair of rounds). The two players with the most drones on the outpost at this point are now co-sponsors of that outpost.</p>
-<ul>
-<li>Any ties are broken in favor of the player(s) in control of the outpost at the end of the second round, or (if needed) in favor of the player(s) who had more drones on the outpost at the end of the second round. <em>If a tie persists, the player(s) in control of the outpost at the end of the second round decide(s) which of the tied players share(s) control of it.</em></li>
-</ul>
-<p>When the two polities co-sponsoring this outpost have been determined, remove all of their drones from the other two outposts (and remove all other players’ drones from the first outpost). Then determine final control of the remaining outpost that has the most total drones on it, in the same way as the first outpost. The third outpost is automatically co-sponsored by the two polities who are not co-sponsors of either of the first two outposts.</p>
-<p>Give each polity their Polity Outpost tiles. Next, determine the nature of each outpost’s co-sponsorship and put the correspondoing Central Outpost tile into play:</p>
-<ul>
-<li>If neither co-sponsoring polity placed a drone on the Seize Authority card, give the pair of polities the Cooperative tile corresponding to their outpost.</li>
-<li>If exactly one co-sponsoring polity placed a drone on the Seize Authority card, give the pair of polities the Authority Seized tile corresponding to their outpost.</li>
-<li>If both co-sponsoring polities placed a drone on the Seize Authority card, give the pair of polities the Malfunctioning tile corresponding to their outpost.</li>
-</ul>
-<p>All these Central Outpost tiles have rules on the back that describe how the Polity Outpost tiles are positioned and what their action spots do. <strong>In every game from now on, the two polities co-sponsoring each outpost must be seated next to each other.</strong></p>
-<p><span style="font-size: inherit;">Finally, determine control of all installations. Starting with the player with the 1st-place ranking card:</span></p>
-<ul>
-<li>Any other players who allocated drones to installations on the 1st-place player’s mat add their drones to those installations now.</li>
-<li>The 1st-place player then allocates drones to their own installations (only the ones with foreign drones on them are relevant). Final control is dictated by whoever has the most drones, with ties broken the same was as for stations.</li>
-<li>Any installations on the 1st-place player’s mat that are controlled by other players are given to those players, keeping them separate from their installation mats for now.</li>
-</ul>
-<p>The same procedure is then resolved for the 2nd-place player, and so on.</p>
-<h3>Restoring installation mats</h3>
-<p>Remove all installations from your installation mat, keeping track of which ones were on arcs 1, 2, and 3, and which ones came from outposts or other players. Flip your installation mat back to its main side. Place your installations on your mat as follows:</p>
-<ul>
-<li>All installations from your 1 arc and 2 arc go into your Inner Zone. <em>If there isn’t enough room in your Inner Zone, choose which extra installation(s) to put in your Middle Zone.</em></li>
-<li>All installations from your 3 arc go into your Middle Zone. <em>If there isn’t enough room in your Middle Zone, choose which extra installation(s) to put in your Outer Zone.</em></li>
-<li>Any installations you stole from other players go into your Outer Zone. <em>If there isn’t enough room in your Outer Zone, choose which extra installation(s) to remove from the game.</em></li>
-</ul>
-<p>Remember that installations must always go as far to the left as possible in their zones, in any order you choose, and that the <a href="https://TheGregMartin.github.io/Cyclicity/reference/game-concepts/index.html">gravity rules</a> are always in effect.</p>
-<p>Congratulations—civilization has now entered its Interstellar Stage. Discard all Second Stage Transition cards, and either save the game for the next session or start the next game immediately!</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Second Stage Transition</title>
-        <author>
-            <name>Greg Martin</name>
-        </author>
-        <link href="https://TheGregMartin.github.io/Cyclicity/first-stage-transition-2/index.html"/>
-        <id>https://TheGregMartin.github.io/Cyclicity/first-stage-transition-2/index.html</id>
-
-        <updated>2025-12-02T12:51:11-08:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    This event is the transition from the Solar Stage into the Interstellar Stage. The event will take place over three&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p class="p1">This event is the transition from the Solar Stage into the Interstellar Stage. The event will take place over three rounds, where each player maneuvers for joint control of the three outposts, secures their existing installations … and possibly steals other players’ installations during the scramble.</p>
-<h3>Setup</h3>
-<figure class="post__image"><img loading="lazy"  src="https://TheGregMartin.github.io/Cyclicity/media/posts/36/stage-2.png" alt="" width="46" height="30" sizes="(max-width: 48em) 100vw, 768px" srcset="https://TheGregMartin.github.io/Cyclicity/media/posts/36/responsive/stage-2-xs.png 300w ,https://TheGregMartin.github.io/Cyclicity/media/posts/36/responsive/stage-2-sm.png 480w ,https://TheGregMartin.github.io/Cyclicity/media/posts/36/responsive/stage-2-md.png 768w"></figure>Before beginning the event, mark one box on every installation with the stage transition icon. Immediately destroy all such installations that have both of their boxes marked.</p>
-<p class="p2">Remove all installations from your mat, keeping track of which ones are in your Inner, Middle, and Outer Zones. Flip the installation mat upside down, oriented so that the numbers are readable to you (with 1 closest to you). Put your installations on this side of the mat, with Inner Zone installations on the 1 arc, Middle Zone installations on the 2 arc, and Outer Zone installations on the 3 arc. (Their horizontal placement doesn’t matter; it might help to have the installations spread as far apart as possible.) <em>If you have too many Inner Zone installations to fit them all on the 1 arc, move one or two of your choice to the 2 arc.</em></p>
-<p class="p1">All players position their installation mats around the cards and supply ship reserve on the table, so that the six mats form a hexagon around them. Place any installation explanation cards adjacent to your installation mat, available for everyone to see, as well as your ranking card from the previous game. Keep your drone reserve behind your polity screen.</p>
-<h3 class="p1">Description of play</h3>
-<p>At the beginning of each of the three rounds, each player starts with a certain amount of supply ships that they can allocate during that round. That amount (which is the same for each of the rounds) is <strong>8, plus half the number of installations they start with (rounded down), plus half their polity’s EGO</strong>. [LINK] On a player’s turn, they may spend any or all of their supply ships for that round to place drones on various stations and/or installations. The number of supply ships needed to place a drone on various locations is listed on the Cost Reference card in the middle of the table.</p>
-<p class="p1">Once an installation has at least one drone on it, it is provisionally <strong>controlled</strong> by the player who has placed the most drones there so far. Put that player’s drones on top of the installation and other players’ drones beside that installation, to help track who controls it at the moment. Control only changes to a new player if that player has more drones on the installation—tying for the most drones is not enough, and the player already controlling it retains control. (An installation with no drones on it is controlled by its owner.)</p>
-<p class="p1">Each outpost is <strong>jointly controlled</strong> by the two players who have placed the most drones on it. If the two players controlling an outpost have an equal number of drones there, it’s important to keep track of which player reached that drone total first, in case a third player exceeds that number of drones and one of the first two players must be ousted. It’s recommended to have the first player’s drones on the title of the outpost and the second player’s drones on the text description.</p>
-<p class="p1">Take a few minutes to look at all the players’ installations, and take note any installations you might be interested in stealing! (It might help to record their actual installation numbers privately.)</p>
-<p class="p1">The order of play is as follows:</p>
-<ul>
-<li class="p1">In the first round, the player with the 1st-place ranking card goes first, followed by the 2nd-place player, and so on, ending with the 6th-place player.</li>
-<li>The second round goes in the reverse order: the player with the 6th-place ranking card goes first, followed by the 5th-place player, and so on, ending with the 1st-place player.</li>
-<li class="p1">After the second round has been completed, turn over the card on top of the remainder of Envelope C1, and follow its instructions to carry out the third and final round of this event.</li>
-</ul>
-<p><em>Note: Supply ships cannot change hands during this event—they are only there to determine how many actions a player can take each round. There is no bribing during stage transitions, and any agreements among players are non-binding.</em></p>
-<p><em>Note: Players are not limited by the number of physical drones in their reserve. They can, for instance, use supply ships themselves in place of drones on their own arc 1 installations.</em></p>
             ]]>
         </content>
     </entry>
