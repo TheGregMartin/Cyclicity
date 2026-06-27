@@ -3,12 +3,39 @@
     <title>Cyclicity</title>
     <link href="https://TheGregMartin.github.io/Cyclicity/feed.xml" rel="self" />
     <link href="https://TheGregMartin.github.io/Cyclicity" />
-    <updated>2026-01-04T17:19:54-08:00</updated>
+    <updated>2026-06-27T10:56:54-07:00</updated>
     <author>
         <name>Greg Martin</name>
     </author>
     <id>https://TheGregMartin.github.io/Cyclicity</id>
 
+    <entry>
+        <title>Sliders after Game 3</title>
+        <author>
+            <name>Greg Martin</name>
+        </author>
+        <link href="https://TheGregMartin.github.io/Cyclicity/sliders-after-game-3/index.html"/>
+        <id>https://TheGregMartin.github.io/Cyclicity/sliders-after-game-3/index.html</id>
+
+        <updated>2026-06-27T10:56:54-07:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    GE MS TR AI CE EES
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <ol>
+<li>GE</li>
+<li>MS</li>
+<li>TR</li>
+<li>AI</li>
+<li>CE</li>
+<li>EES</li>
+</ol>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Wormhole Expeditions (action)</title>
         <author>
@@ -288,27 +315,6 @@
 </ul>
 <p>Remember that installations must always go as far to the left as possible in their zones, in any order you choose. In addition, there must now be at least as many installations in the bottom row of your Inner Zone as there are in the top row of your Inner Zone at all times (an extension of the “<a href="https://TheGregMartin.github.io/Cyclicity/reference/game-concepts/index.html">gravity rules</a>”).</p>
 <p>Congratulations—civilization has now entered its Solar Stage. Discard all First Stage Transition cards, and either save the game for the next session or start the next game immediately!</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Posts during play</title>
-        <author>
-            <name>Greg Martin</name>
-        </author>
-        <link href="https://TheGregMartin.github.io/Cyclicity/posts-during-play/index.html"/>
-        <id>https://TheGregMartin.github.io/Cyclicity/posts-during-play/index.html</id>
-            <category term="Posts during play"/>
-
-        <updated>2025-11-29T22:20:47-08:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    This is the page where I will post information that arises during one of our games, so that you have&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>This is the page where I will post information that arises during one of our games, so that you have access to new rules in some reasonable written form.</p>
             ]]>
         </content>
     </entry>
