@@ -3,7 +3,7 @@
     <title>Cyclicity</title>
     <link href="https://TheGregMartin.github.io/Cyclicity/feed.xml" rel="self" />
     <link href="https://TheGregMartin.github.io/Cyclicity" />
-    <updated>2026-06-27T10:56:54-07:00</updated>
+    <updated>2026-08-16T01:00:42-07:00</updated>
     <author>
         <name>Greg Martin</name>
     </author>
@@ -300,7 +300,7 @@
 <p>Next, determine control of all installations. Starting with the player with the 1st-place ranking card:</p>
 <ul>
 <li>Any other players who allocated drones to installations on the 1st-place player’s mat add their drones to those installations now.</li>
-<li>The 1st-place player then allocates drones to their own installations (only the ones with foreign drones on them are relevant). Final control is dictated by whoever has the most drones, with ties broken the same was as for stations.</li>
+<li>The 1st-place player then allocates drones to their own installations (only the ones with foreign drones on them are relevant). Final control is dictated by whoever has the most drones, with ties broken the same way as for stations.</li>
 <li>Any installations on the 1st-place player’s mat that are controlled by other players are given to those players, keeping them separate from their installation mats for now.</li>
 </ul>
 <p>The same procedure is then resolved for the 2nd-place player, and so on.</p>
