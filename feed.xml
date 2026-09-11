@@ -3,7 +3,7 @@
     <title>Cyclicity</title>
     <link href="https://TheGregMartin.github.io/Cyclicity/feed.xml" rel="self" />
     <link href="https://TheGregMartin.github.io/Cyclicity" />
-    <updated>2026-08-16T01:00:42-07:00</updated>
+    <updated>2026-09-10T20:24:33-07:00</updated>
     <author>
         <name>Greg Martin</name>
     </author>
@@ -20,7 +20,7 @@
         <updated>2026-06-27T10:56:54-07:00</updated>
             <summary type="html">
                 <![CDATA[
-                    GE MS TR AI CE EES
+                    GE MS TR AI CE EES Yay.
                 ]]>
             </summary>
         <content type="html">
@@ -33,6 +33,7 @@
 <li>CE</li>
 <li>EES</li>
 </ol>
+<p>Yay.</p>
             ]]>
         </content>
     </entry>
