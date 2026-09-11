@@ -3,7 +3,7 @@
     <title>Cyclicity</title>
     <link href="https://TheGregMartin.github.io/Cyclicity/feed.xml" rel="self" />
     <link href="https://TheGregMartin.github.io/Cyclicity" />
-    <updated>2026-09-10T20:24:33-07:00</updated>
+    <updated>2026-09-10T20:26:33-07:00</updated>
     <author>
         <name>Greg Martin</name>
     </author>
@@ -16,11 +16,12 @@
         </author>
         <link href="https://TheGregMartin.github.io/Cyclicity/sliders-after-game-3/index.html"/>
         <id>https://TheGregMartin.github.io/Cyclicity/sliders-after-game-3/index.html</id>
+            <category term="Posts during play"/>
 
         <updated>2026-06-27T10:56:54-07:00</updated>
             <summary type="html">
                 <![CDATA[
-                    GE MS TR AI CE EES Yay.
+                    GE MS TR AI CE EES
                 ]]>
             </summary>
         <content type="html">
@@ -33,7 +34,6 @@
 <li>CE</li>
 <li>EES</li>
 </ol>
-<p>Yay.</p>
             ]]>
         </content>
     </entry>
