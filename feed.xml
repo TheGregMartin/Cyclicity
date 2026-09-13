@@ -3,12 +3,33 @@
     <title>Cyclicity</title>
     <link href="https://TheGregMartin.github.io/Cyclicity/feed.xml" rel="self" />
     <link href="https://TheGregMartin.github.io/Cyclicity" />
-    <updated>2026-09-10T20:28:04-07:00</updated>
+    <updated>2026-09-12T23:31:22-07:00</updated>
     <author>
         <name>Greg Martin</name>
     </author>
     <id>https://TheGregMartin.github.io/Cyclicity</id>
 
+    <entry>
+        <title>Posts between games</title>
+        <author>
+            <name>Greg Martin</name>
+        </author>
+        <link href="https://TheGregMartin.github.io/Cyclicity/posts-between-games/index.html"/>
+        <id>https://TheGregMartin.github.io/Cyclicity/posts-between-games/index.html</id>
+            <category term="Posts between games"/>
+
+        <updated>2026-09-12T23:31:22-07:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    This is the page where I will post information between our games, usually to tell you about changes or to&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is the page where I will post information between our games, usually to tell you about changes or to suggest reminders for the upcoming game.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Sliders after Game 3</title>
         <author>
@@ -265,56 +286,6 @@
 </ul>
 <p><em>Note: Supply ships cannot change hands during this event—they are only there to determine how many actions a player can take each round. There is no bribing during stage transitions, and any agreements among players are non-binding.</em></p>
 <p><em>Note: Players are not limited by the number of physical drones in their reserve. They can, for instance, use supply ships themselves in place of drones on their own arc 1 installations.</em></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>First Stage Transition—Conclusion</title>
-        <author>
-            <name>Greg Martin</name>
-        </author>
-        <link href="https://TheGregMartin.github.io/Cyclicity/first-stage-transition-conclusion/index.html"/>
-        <id>https://TheGregMartin.github.io/Cyclicity/first-stage-transition-conclusion/index.html</id>
-
-        <updated>2025-11-30T17:14:43-08:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    When all players have finished recording their allocations for the third round, turn all their third-round cards face up for&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>When all players have finished recording their allocations for the third round, turn all their third-round cards face up for everyone to see.</p>
-<p><em>It’s recommended for players to pair up and quickly check the arithmetic of each other’s drone allocations. If a player has spent more supply ships than they had available, their drone allocations are carried out as fully as possible starting from the top of the card.</em></p>
-<h3>Determining final control</h3>
-<p>Start by determining final control of the ORI station. Any players who allocated drones to the ORI simultaneously add their drones now (keeping them separate from the drones that were already there, so that it can still be determined how many drones were placed in the first pair of rounds). Whoever has the most drones on the ORI at this point is now based in the ORI and in charge of that station. That player receives installation C6, keeping it separate from their installation mat for now.</p>
-<ul>
-<li>If there is a tie for most drones, the tie is broken in favor of the player who was in control of the ORI at the end of the second round, or (if needed) in favor of the player who had more drones on the ORI at the end of the second round. <em>If a tie persists, the player who was in control of the ORI at the end of the second round decides which of the tied players becomes in charge of it.</em></li>
-</ul>
-<p>Similarly, determine final control of Station α, Station β, and Lunar Base in the same way.</p>
-<ul>
-<li>The player in charge of Station α receives installation C1. They choose one of the six sliders (representing the scientific area they want to promote) and draw its icon in the dashed box on the installation.</li>
-<li>The player in charge of Station β receives installation C2 and likewise draws their chosen slider icon on it.</li>
-<li>The player in charge of Lunar Base receives installations C0 and CF, both of which have corresponding installation rule cards.</li>
-</ul>
-<p>Next, determine control of all installations. Starting with the player with the 1st-place ranking card:</p>
-<ul>
-<li>Any other players who allocated drones to installations on the 1st-place player’s mat add their drones to those installations now.</li>
-<li>The 1st-place player then allocates drones to their own installations (only the ones with foreign drones on them are relevant). Final control is dictated by whoever has the most drones, with ties broken the same way as for stations.</li>
-<li>Any installations on the 1st-place player’s mat that are controlled by other players are given to those players, keeping them separate from their installation mats for now.</li>
-</ul>
-<p>The same procedure is then resolved for the 2nd-place player, and so on.</p>
-<h3>Restoring installation mats</h3>
-<p>Remove all installations from your installation mat, keeping track of which ones were on arcs 1, 2, and 3, and which ones came from controlling stations or other players’ installations. Flip your installation mat back to its main side. Put an Extended Drone Recycling sticker next to the bottom two rows of squares (so that its upper half covers the original Drone Recycling). <strong>For the rest of the game, your Inner Zone consists of the bottom two rows of squares on your installation mat.</strong> The Middle and Outer Zones remain the same.</p>
-<p>Place your installations on your mat as follows:</p>
-<ul>
-<li>Any installations you received from controlling stations go into your Inner Zone.</li>
-<li>All installations from your 1 arc and 2 arc go into your Inner Zone. <em>If there isn’t enough room in your Inner Zone, choose which extra installation(s) to put in your Middle Zone.</em></li>
-<li>All installations from your 3 arc go into your Middle Zone. <em>If there isn’t enough room in your Middle Zone, choose which extra installation(s) to put in your Outer Zone.</em></li>
-<li>Any installations you stole from other players go into your Outer Zone. <em>If there isn’t enough room in your Outer Zone, choose which extra installation(s) to remove from the game.</em></li>
-</ul>
-<p>Remember that installations must always go as far to the left as possible in their zones, in any order you choose. In addition, there must now be at least as many installations in the bottom row of your Inner Zone as there are in the top row of your Inner Zone at all times (an extension of the “<a href="https://TheGregMartin.github.io/Cyclicity/reference/game-concepts/index.html">gravity rules</a>”).</p>
-<p>Congratulations—civilization has now entered its Solar Stage. Discard all First Stage Transition cards, and either save the game for the next session or start the next game immediately!</p>
             ]]>
         </content>
     </entry>
