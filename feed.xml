@@ -3,7 +3,7 @@
     <title>Cyclicity</title>
     <link href="https://TheGregMartin.github.io/Cyclicity/feed.xml" rel="self" />
     <link href="https://TheGregMartin.github.io/Cyclicity" />
-    <updated>2026-09-25T16:00:22-07:00</updated>
+    <updated>2026-10-01T00:18:46-07:00</updated>
     <author>
         <name>Greg Martin</name>
     </author>
@@ -18,8 +18,25 @@
         <id>https://TheGregMartin.github.io/Cyclicity/first-stage-transition-supply-ship-counts/index.html</id>
 
         <updated>2026-09-14T15:15:04-07:00</updated>
-            <summary></summary>
-        <content></content>
+            <summary type="html">
+                <![CDATA[
+                    Here are the supply ship totals that each player will be able to use in each round: We’ll put these&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Here are the supply ship totals that each player will be able to use in each round:</p>
+<ul>
+<li>Barney (Oyo): </li>
+<li>Graham (Achaemenia): </li>
+<li>Katie and Russell (Gupta): </li>
+<li>Jason (Tu’i Tonga): </li>
+<li>Janelle (Scythia): </li>
+<li>Vivien (Inuit): </li>
+</ul>
+<p>We’ll put these in ranking order.</p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Preparation for Game 4</title>
