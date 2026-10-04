@@ -3,7 +3,7 @@
     <title>Cyclicity</title>
     <link href="https://TheGregMartin.github.io/Cyclicity/feed.xml" rel="self" />
     <link href="https://TheGregMartin.github.io/Cyclicity" />
-    <updated>2026-10-03T17:05:20-07:00</updated>
+    <updated>2026-10-03T21:40:39-07:00</updated>
     <author>
         <name>Greg Martin</name>
     </author>
@@ -111,7 +111,7 @@
         </content>
     </entry>
     <entry>
-        <title>Sliders after Game 3</title>
+        <title>Sliders after Game 4</title>
         <author>
             <name>Greg Martin</name>
         </author>
@@ -121,18 +121,18 @@
         <updated>2026-06-27T10:56:54-07:00</updated>
             <summary type="html">
                 <![CDATA[
-                    GE MS TR AI CE EES
+                    MS AI EES GE TR CE
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <ol>
-<li>GE</li>
 <li>MS</li>
-<li>TR</li>
 <li>AI</li>
-<li>CE</li>
 <li>EES</li>
+<li>GE</li>
+<li>TR</li>
+<li>CE</li>
 </ol>
             ]]>
         </content>
