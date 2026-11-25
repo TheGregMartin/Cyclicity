@@ -3,12 +3,40 @@
     <title>Cyclicity</title>
     <link href="https://TheGregMartin.github.io/Cyclicity/feed.xml" rel="self" />
     <link href="https://TheGregMartin.github.io/Cyclicity" />
-    <updated>2026-10-06T11:17:20-07:00</updated>
+    <updated>2026-11-25T11:13:22-08:00</updated>
     <author>
         <name>Greg Martin</name>
     </author>
     <id>https://TheGregMartin.github.io/Cyclicity</id>
 
+    <entry>
+        <title>Preparation for Game #6</title>
+        <author>
+            <name>Greg Martin</name>
+        </author>
+        <link href="https://TheGregMartin.github.io/Cyclicity/preparation-for-game-6/index.html"/>
+        <id>https://TheGregMartin.github.io/Cyclicity/preparation-for-game-6/index.html</id>
+            <category term="Posts between games"/>
+
+        <updated>2026-11-25T11:13:14-08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    To prepare for Game 6 (Friday, November 27), here are my suggestions for what you can do in advance:
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>To prepare for Game 6 (Friday, November 27), here are my suggestions for what you can do in advance:</p>
+<ul>
+<li>I rewrote the <a href="https://TheGregMartin.github.io/Cyclicity/story-record/historical-minutes-of-isa-meetings/index.html">in-character minutes of ISA meetings</a> for our previous game (wanted to include the new stations more), so you can (re)read it if you want</li>
+<li>You can remind yourself of the <a href="https://TheGregMartin.github.io/Cyclicity/reference/game-concepts/index.html">solar flare damage rules</a>, as well as the <a href="https://TheGregMartin.github.io/Cyclicity/reference/action-descriptions/index.html">Shield Installations and Solar Flare Migitation</a> actions</li>
+<li>It’s always good to remember how to <a href="https://TheGregMartin.github.io/Cyclicity/rulebook/start-of-every-game-after-the-first/draft-objectives-subsequent-games/index.html">draft your objectives</a></li>
+<li>You can remind yourself of the ongoing stories with the <a href="https://TheGregMartin.github.io/Cyclicity/story-record/story-cards-by-slot/index.html">summaries of each story card slot</a></li>
+</ul>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Record of First Stage Transition</title>
         <author>
@@ -127,7 +155,6 @@
         </author>
         <link href="https://TheGregMartin.github.io/Cyclicity/preparation-for-game-4/index.html"/>
         <id>https://TheGregMartin.github.io/Cyclicity/preparation-for-game-4/index.html</id>
-            <category term="Posts between games"/>
 
         <updated>2026-09-12T23:57:33-07:00</updated>
             <summary type="html">
@@ -316,31 +343,6 @@
         <content type="html">
             <![CDATA[
                 <figure class="post__image">As an action, any player may place as many drones from behind their screen as they wish onto the Solar Flare Mitigation card.<br><br><img loading="lazy"  src="https://TheGregMartin.github.io/Cyclicity/media/posts/73/solarflare.png" alt="" width="46" height="30" sizes="(max-width: 48em) 100vw, 768px" srcset="https://TheGregMartin.github.io/Cyclicity/media/posts/73/responsive/solarflare-xs.png 300w ,https://TheGregMartin.github.io/Cyclicity/media/posts/73/responsive/solarflare-sm.png 480w ,https://TheGregMartin.github.io/Cyclicity/media/posts/73/responsive/solarflare-md.png 768w"></figure>Once per game, if a <a href="https://TheGregMartin.github.io/Cyclicity/reference/game-concepts/index.html">solar flare token</a> would be added to the Solar Flare Damage card, and the number of drones on the Solar Flare Mitigation card equals or exceeds the number of marked boxes on that card: do not add the solar flare token.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Shield Installations (action)</title>
-        <author>
-            <name>Greg Martin</name>
-        </author>
-        <link href="https://TheGregMartin.github.io/Cyclicity/shield-installations-action/index.html"/>
-        <id>https://TheGregMartin.github.io/Cyclicity/shield-installations-action/index.html</id>
-
-        <updated>2026-01-03T00:55:21-08:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    Place up to 3 supply ships from the reserve underneath any combination of your Middle Zone and Outer Zone installations.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Place up to 3 supply ships from the reserve underneath any combination of your Middle Zone and Outer Zone installations. These supply ships can shield installations (which is relevant to the <a href="https://TheGregMartin.github.io/Cyclicity/reference/game-concepts/index.html">Solar Flare Damage</a> card).</p>
-<ul>
-<li>An Outer Zone installation is considered shielded if it has at least 2 supply ships underneath it.</li>
-<li>A Middle Zone installation is considered shielded if it has at least 1 supply ship underneath it.</li>
-<li>(Inner Zone installations are always considered shielded.)</li>
-</ul>
             ]]>
         </content>
     </entry>
